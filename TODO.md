@@ -17,18 +17,22 @@ Global References:
 
 ## Current Task (Only One Active Task)
 
-### Task: Minimal Project Setup
+### Task: Implement Expense List (Today)
+
+Reference:
+
+- [Expense List Today](./FEATURES.md#feature-slice-expense-list-today)
 
 Scope:
-- Hello World
+- UI for viewing the expense
 
 Done When:
-- A developer can run the app locally
-- The text "Hello World" is displayed in the browser window
+- A user can see their expenses for the current day
 
 Out of Scope:
-- deployment
-- testing
+- history
+- calendar view
+- actually adding expenses
 
 ---
 
