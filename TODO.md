@@ -5,11 +5,13 @@ Copilot should prioritize ONLY the tasks listed here.
 
 Do not work on completed or future tasks.
 
+Please follow the steps in [WORKFLOW.md](./WORKFLOW.md) when working on any task.
+
 Global References:
 
-- WORKFLOW.md
-- TECH.md
-- CONTEXT.md
+- [WORKFLOW.md](./WORKFLOW.md)
+- [TECH.md](./TECH.md)
+- [CONTEXT.md](./CONTEXT.md)
 
 ---
 
